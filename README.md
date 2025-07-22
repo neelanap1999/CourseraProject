@@ -1,6 +1,5 @@
-all: README.md
+# Guessing Game Project
 
-README.md: guessinggame.sh
-	echo "# Guessing Game Project" > README.md
-	echo "Generated on: $$(date)" >> README.md
-	echo "Number of lines in guessinggame.sh: $$(wc -l < guessinggame.sh)" >> README.md
+**Make run timestamp:** Thu Jul 17 08:17:55 PM EDT 2025
+
+**Number of lines in `guessinggame.sh`:** 30
