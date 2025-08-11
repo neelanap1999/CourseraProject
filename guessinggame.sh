@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# File: guessinggame.sh
 
 function get_file_count {
   echo $(ls -1 | wc -l)
